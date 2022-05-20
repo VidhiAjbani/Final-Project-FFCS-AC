@@ -14,7 +14,7 @@
   
 ### **Player - played**
 
-  <img src= "https://raw.githubusercontent.com/VidhiAjbani/Final-Project-FFCS-AC/main/assets/player_played.jpeg" width="40%" height="600">
+  <img src= "https://raw.githubusercontent.com/VidhiAjbani/Final-Project-FFCS-AC/main/assets/player_play.jpeg" width="40%" height="600">
   
 ### **Play List**
   
